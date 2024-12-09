@@ -1,0 +1,2644 @@
+{
+  "result": "ok",
+  "response": "collection",
+  "data": [
+    {
+      "id": "72a2961a-333b-434c-8552-8944d5c0c862",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Gojuu, Rokujuu, Yorokonde"
+        },
+        "altTitles": [
+          {
+            "en": "Fifty, Sixty, It's My Pleasure."
+          },
+          {
+            "ja": "五十、六十、よろこんで。"
+          },
+          {
+            "ru": "Пятьдесят, шестьдесят, с удовольствием."
+          }
+        ],
+        "description": {
+          "en": "Aki-san (50), a divorced woman, has been getting along well with Rokujo-san (60).\nPeople around them are worried about their pure relationship, but there is no need to worry. At a summer festival, the two quickly grow closer, and their feelings for each other continue to grow.\nThey envision a future together, and finally....\n\"I want to spend the rest of my life with the person I love.\"",
+          "ru": "Аки-сан (50 лет), разведённая женщина, хорошо проводит время с Рокудзё-саном (60 лет). Окружающие беспокоятся, но их отношения чисты, и беспокоиться не стоит. На летнем фестивале они быстро сближаются, и их чувства друг к другу продолжают расти. Они представляют себе совместное будущее, и, наконец... «Я хочу провести остаток жизни с любимым человеком»."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "135847",
+          "ap": "gojuu-rokujuu-yorokonde",
+          "bw": "series/306499/list",
+          "kt": "gojitsu-rokujutsu-yorokonde",
+          "mu": "176338",
+          "amz": "https://www.amazon.co.jp/-/en/%E3%83%AF%E3%82%A4%E3%82%A8%E3%83%A0%E7%B3%BB-ebook/dp/B09QLXR4CC/ref=sr_1_2?crid=2EZRR4A7M5V4X&keywords=%E4%BA%94%E5%8D%81%E5%85%AD%E5%8D%81%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7&qid=1695846446&sprefix=%2Caps%2C706&sr=8-2",
+          "mal": "140332",
+          "raw": "https://comic.pixiv.net/works/7166"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "2",
+        "lastChapter": "60",
+        "publicationDemographic": "josei",
+        "status": "completed",
+        "year": 2021,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Slice of Life"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2022-08-14T05:25:04+00:00",
+        "updatedAt": "2024-02-03T15:20:44+00:00",
+        "version": 12,
+        "availableTranslatedLanguages": [
+          "en",
+          "id",
+          "ru"
+        ],
+        "latestUploadedChapter": "8793e1fc-258f-43e1-8d68-ad49f166016c"
+      },
+      "relationships": [
+        {
+          "id": "d70d4e79-5c5f-4dbb-92dc-e3864f32e2c0",
+          "type": "author"
+        },
+        {
+          "id": "d70d4e79-5c5f-4dbb-92dc-e3864f32e2c0",
+          "type": "artist"
+        },
+        {
+          "id": "9d7726f4-196c-4f59-bfee-6823b1c3b4f9",
+          "type": "cover_art"
+        },
+        {
+          "id": "6092f862-12ce-4c55-9f82-af8a17e8638b",
+          "type": "creator"
+        }
+      ]
+    },
+    {
+      "id": "4c53c85c-0303-4cf0-887b-15092774c6a1",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Shugo Chara! Jewel Joker"
+        },
+        "altTitles": [
+          {
+            "ja": "しゅごキャラ！ ジュエルジョーカー"
+          },
+          {
+            "ja-ro": "Shugo Chara! Jewel Joker"
+          }
+        ],
+        "description": {
+          "en": "The long-awaited comeback! A new story of Amu and her guardian characters begins...!\n\nThe cool and spicy Amu Hinamori has graduated from Seiyo Academy's elementary school and is finally a junior high school student! She thought she would have carefree days with her precious friends in junior high... until she is asked to take on a mission related to guardian characters and has to transfer to a new school...!"
+        },
+        "isLocked": false,
+        "links": {
+          "al": "178887",
+          "mu": "jyz8gob",
+          "mal": "163357"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "shoujo",
+        "status": "ongoing",
+        "year": 2024,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "81c836c9-914a-4eca-981a-560dad663e73",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Magical Girls"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Harem"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Supernatural"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Mystery"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2024-07-31T09:51:20+00:00",
+        "updatedAt": "2024-08-04T16:01:24+00:00",
+        "version": 9,
+        "availableTranslatedLanguages": [
+          "ru",
+          "pt-br",
+          "es-la",
+          "en"
+        ],
+        "latestUploadedChapter": "9985ef8f-55f2-4604-b545-7bdebb08f11e"
+      },
+      "relationships": [
+        {
+          "id": "b9dc6b55-5ced-4631-969d-5956c9e3411a",
+          "type": "author"
+        },
+        {
+          "id": "b9dc6b55-5ced-4631-969d-5956c9e3411a",
+          "type": "artist"
+        },
+        {
+          "id": "2b9ee00b-c401-42e3-b9f0-e1c70f2dfba1",
+          "type": "cover_art"
+        },
+        {
+          "id": "72b27201-7911-48fc-b042-4ca39590114e",
+          "type": "manga",
+          "related": "prequel",
+          "attributes": {
+            "title": {
+              "en": "Shugo Chara!"
+            },
+            "altTitles": [
+              {
+                "en": "Guardian Characters!"
+              },
+              {
+                "th": "คาแรคเตอร์ผู้พิทักษ์"
+              },
+              {
+                "ja": "しゅごキャラ！"
+              },
+              {
+                "zh": "守护甜心"
+              },
+              {
+                "zh-hk": "守護甜心"
+              }
+            ],
+            "description": {
+              "en": "Everybody at Seiyo Elementary thinks that stylish and supercool Amu has it all. But nobody knows the real Amu, a shy girl who wishes she had the courage to truly be herself. Changing Amu's life is going to take more than wishes and dreams—it's going to take a little magic! One morning, Amu finds a surprise in her bed: three strange little eggs. Each egg contains a Guardian Character, an angel-like being who can give her the power to be someone new. With the help of her Guardian Characters, Amu is about to discover that her true self is even more amazing than she ever dreamed. [Kodansha]",
+              "es": "Amu Hinamori es la nueva estudiante de la Escuela Primaria Seiyo, la gente inventa rumores y su forma de ser es inmediatamente malinterpretada como guay y rebelde… Nada más lejos de la realidad, por dentro, Amu es como cualquier otra chica, solo quiere tener amigos con los que hablar y está enamorada del ídolo de la escuela. Pero todo cambia cuando después de varios sucesos se ve obligada a enfrentarse a una extraña realidad y se da cuenta que quizá no es la única que desea cambiar de personalidad. ¿Qué le deparará el futuro?\n\n¡Contiene la historia paralela de ¡Shugo Chara! ¡Encore! en el volumen 12."
+            },
+            "isLocked": false,
+            "links": {
+              "al": "30101",
+              "ap": "shugo-chara",
+              "bw": "series/292387",
+              "kt": "266",
+              "mu": "2662",
+              "amz": "https://www.amazon.co.jp/gp/product/B08Y5JQ6VF",
+              "ebj": "https://ebookjapan.yahoo.co.jp/books/625969/",
+              "mal": "101",
+              "raw": "https://comic-days.com/episode/3269754496479642501",
+              "engtl": "https://comics.inkr.com/title/1095-shugo-chara?utm_source=mgd"
+            },
+            "originalLanguage": "ja",
+            "lastVolume": "12",
+            "lastChapter": "52",
+            "publicationDemographic": "shoujo",
+            "status": "completed",
+            "year": 2006,
+            "contentRating": "safe",
+            "tags": [
+              {
+                "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Award Winning"
+                  },
+                  "description": {},
+                  "group": "format",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Romance"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "81c836c9-914a-4eca-981a-560dad663e73",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Magical Girls"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Drama"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "School Life"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Fantasy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              }
+            ],
+            "state": "published",
+            "chapterNumbersResetOnNewVolume": false,
+            "createdAt": "2018-04-04T08:38:33+00:00",
+            "updatedAt": "2023-10-01T20:57:05+00:00",
+            "version": 10,
+            "availableTranslatedLanguages": [
+              "es",
+              "pl",
+              "en",
+              "pt-br"
+            ],
+            "latestUploadedChapter": "b7b27975-6e79-4639-a142-96ba837db1dd"
+          }
+        },
+        {
+          "id": "132c7600-c1bd-4263-bcaf-c0e0c1a644ab",
+          "type": "creator"
+        }
+      ]
+    },
+    {
+      "id": "776fc769-0040-4135-b609-1df34b056562",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Dokuzu"
+        },
+        "altTitles": [
+          {
+            "ja": "ド屑"
+          },
+          {
+            "fr": "Dokuzu"
+          },
+          {
+            "ja-ro": "Dokuzu"
+          }
+        ],
+        "description": {
+          "en": "One day, college student Ryu comes across his classmate Tsuge, who is about to jump off a pedestrian bridge. He stalls her suicide, and the two begin to interact, but Tsuge's smartphone contains countless photos of Ryu...\nA story of immature and distorted love.\n\n\n------------------------------------------------------------------------------\n\nNote: A comic adaptation of a popular Vocaloid song that has become a hot topic on SNS.",
+          "ja": "男子大学生の榴は、同級生の柘が歩道橋から飛び降りようとしている現場に遭遇してしまう。説得の末に思い留まらせた榴は柘との距離を縮め、やがて交際を始めるが、二人にはそれぞれ相手に言えない裏の顔があり──二人の“ド屑”な本性が徐々に明らかになっていく!!"
+        },
+        "isLocked": false,
+        "links": {
+          "bw": "series/467035",
+          "mu": "wi9vda9",
+          "amz": "https://www.amazon.co.jp/dp/B0CTHS4SVX",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/824263/",
+          "raw": "https://ichijin-plus.com/comics/96160377831735"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "2",
+        "lastChapter": "14",
+        "publicationDemographic": null,
+        "status": "completed",
+        "year": 2023,
+        "contentRating": "suggestive",
+        "tags": [
+          {
+            "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Psychological"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adaptation"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2023-06-07T14:41:43+00:00",
+        "updatedAt": "2024-12-03T22:20:38+00:00",
+        "version": 6,
+        "availableTranslatedLanguages": [
+          "fr"
+        ],
+        "latestUploadedChapter": "686aa28a-02ba-4928-901f-11a018c55154"
+      },
+      "relationships": [
+        {
+          "id": "492927a9-bba4-41b8-820b-2aadf0576e73",
+          "type": "author"
+        },
+        {
+          "id": "bed7122d-bce9-4f99-b624-5f46ff7f1bf3",
+          "type": "artist"
+        },
+        {
+          "id": "b5a826a7-08f1-48f9-bc23-b2a6fb89e94c",
+          "type": "cover_art"
+        },
+        {
+          "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+          "type": "creator"
+        }
+      ]
+    },
+    {
+      "id": "769a5e79-0670-4188-8582-035f0a3cc051",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Zannen Jokanbu Black General-san"
+        },
+        "altTitles": [
+          {
+            "en": "Precarious Female Executive Miss Black General"
+          },
+          {
+            "en": "Precarious Woman Executive Miss Black General"
+          },
+          {
+            "ja-ro": "Zannen Onna-Kanbu Black General-san"
+          },
+          {
+            "ja": "残念女幹部ブラックジェネラルさん"
+          },
+          {
+            "es-la": "La Precaria Mujer Ejecutiva Señorita General Black"
+          }
+        ],
+        "description": {
+          "en": "Braveman is your average superhero. Unfortunately for him, his arch-nemesis also happens to be a stalker and his number one fan. Follow their story as Braveman struggles to overcome his greatest adversary and retain his peace of mind.",
+          "es-la": "La General Black es la líder de una organización secreta que quiere dominar al mundo. Por desgracia también esta loca por Braveman un superhéroe dedicado a frustrar los malvados planes de esta organización. Entonces, ¿Cómo exactamente va a conquistar el mundo cuando ni siquiera puede conquistar sus propios sentimientos? ¿Y cómo va a responder Braveman a este extraño giro?",
+          "pt-br": "Braveman é um super herói como qualquer outro. Infelizmente pra ele, sua arqui-inimiga é sua stalker e sua fã número 1. Acompanhe as aventuras de Braveman e sua luta incansável contra seu maior adversário enquanto tenta não perder a cabeça."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "97695",
+          "ap": "precarious-woman-executive-miss-black-general",
+          "bw": "series/60299/list",
+          "kt": "38290",
+          "mu": "122363",
+          "amz": "https://www.amazon.co.jp/dp/B074CHJ5X9",
+          "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1906810",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/348739",
+          "mal": "100817",
+          "raw": "https://comic-walker.com/contents/detail/KDCW_FS01000021010000_68",
+          "engtl": "http://www.sevenseasentertainment.com/series/precarious-woman-executive-miss-black-general"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "shounen",
+        "status": "ongoing",
+        "year": 2015,
+        "contentRating": "suggestive",
+        "tags": [
+          {
+            "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Sci-Fi"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Monsters"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "7064a261-a137-4d3a-8848-2d385de3a99c",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Superhero"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Martial Arts"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Military"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Monster Girls"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Slice of Life"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2019-01-13T09:14:58+00:00",
+        "updatedAt": "2024-10-09T17:08:04+00:00",
+        "version": 11,
+        "availableTranslatedLanguages": [
+          "en",
+          "es-la",
+          "pt-br",
+          "vi",
+          "tr"
+        ],
+        "latestUploadedChapter": "0cd94d93-ea4a-4a7f-8d5f-bed861e8d9f1"
+      },
+      "relationships": [
+        {
+          "id": "e1258623-4d95-4293-b867-a7d12592050f",
+          "type": "author"
+        },
+        {
+          "id": "e1258623-4d95-4293-b867-a7d12592050f",
+          "type": "artist"
+        },
+        {
+          "id": "2e419ee7-fd8f-4f87-b22a-cad7ce3cf710",
+          "type": "cover_art"
+        }
+      ]
+    },
+    {
+      "id": "d1b8a827-d64d-4d74-a8f1-c0bbe1cf4ba8",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Heart of Thomas"
+        },
+        "altTitles": [
+          {
+            "ja-ro": "Thomas no Shinzou"
+          },
+          {
+            "ja-ro": "Mitsukuni no Musume"
+          },
+          {
+            "ja-ro": "Touma no Shinzou"
+          },
+          {
+            "ja": "トーマの心臓"
+          },
+          {
+            "zh": "天使心"
+          },
+          {
+            "zh": "托马的心脏"
+          },
+          {
+            "ko": "토마의 심장"
+          },
+          {
+            "fr": "Le Cœur de Thomas"
+          },
+          {
+            "it": "Il cuore di Thomas"
+          },
+          {
+            "es": "El corazón de Thomas"
+          },
+          {
+            "pt-br": "O Coração de Thomas"
+          },
+          {
+            "vi": "Trái Tim Của Thomas"
+          }
+        ],
+        "description": {
+          "en": "As winter draws to a close, German boarding school student Thomas Werner dies one morning. He leaves behind a single letter addressed to his fellow student Juli that reads \"Here is my love. Here is the sound of my heart.\"  \n  \nWith his faith shaken to the core by the words, the scholarly Juli sinks to the depths of despair. His cynical roommate Oscar finds himself watching over Juli's fragile mental state while keeping his own feelings for Juli under wraps. Then new student Eric enters the school - and he has an uncanny resemblance to the deceased Thomas…  \n  \nEnter the world of a boy's boarding school in Germany where all will be revealed about the suffering and redemption that comes with love. Even today, this early work of Hagio Moto is still regarded as a brilliant masterpiece.  \n  \nThis is volumes 11-12 of Hagio Moto Works  \n  \n1 Bianka (ビアンカ)  \n2 Tou no Aru Ie (塔のある家)  \n3 Cake Cake Cake (ケーキケーキケーキ)  \n4 Sara Hill no Seiya (セーラ・ヒルの聖夜)  \n5 Sangatsu Usagi ga Shuudande (３月ウサギが集団で)  \n6 Poe no Ichizoku 1 (ポーの一族　　　１)  \n7 Poe no Ichizoku 2 (ポーの一族　　　２)  \n8 Poe no Ichizoku 3 (ポーの一族　　　３)  \n9 Poe no Ichizoku 4 (ポーの一族　　　４)  \n10 Kyobetsu Hata no Isansouzokunin (キャベツ畑の遺産相続人)  \n11 Thomas no Shinzou First (トーマの心臓　上)  \n12 Thomas no Shinzou Last (トーマの心臓　下)  \n13 Juuichinin Iru! (１１人いる！)  \n14 Shiiro no Yuukyuu / Kuro no Eien (東の地平・西の永久)  \n15 Kono Musume Urimasu! (この娘うります！)  \n16 Tottemo Shiawase Moto-chan (とってもしあわせモトちゃん)  \n17 American Pie (アメリカンパイ)"
+        },
+        "isLocked": false,
+        "links": {
+          "al": "39152",
+          "ap": "the-heart-of-thomas",
+          "kt": "18547",
+          "mu": "12379",
+          "amz": "https://www.amazon.co.jp/-/en/萩尾望都-ebook/dp/B00MORJPNA/ref=sr_1_1?crid=HBBBVL08WE50&keywords=トーマの心臓&qid=1647212431&sprefix=トーマの心臓,aps,110&sr=8-1",
+          "cdj": "http://www.cdjapan.co.jp/product/NEOBK-88979?s_ssid=e4ea25c716bab506",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/107450/",
+          "mal": "9152",
+          "engtl": "http://www.fantagraphics.com/heartofthomas/"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "3",
+        "lastChapter": "7.5",
+        "publicationDemographic": "shoujo",
+        "status": "completed",
+        "year": 1974,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Psychological"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "School Life"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Slice of Life"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Tragedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2018-05-23T16:45:46+00:00",
+        "updatedAt": "2024-10-05T07:34:54+00:00",
+        "version": 7,
+        "availableTranslatedLanguages": [
+          "vi",
+          "en",
+          "tr",
+          "pt-br"
+        ],
+        "latestUploadedChapter": "a5eeb6ba-0518-4acd-84c6-e2dcc9d87992"
+      },
+      "relationships": [
+        {
+          "id": "76bc5e4b-1785-4ece-b3e8-2daa2ab82c9e",
+          "type": "author"
+        },
+        {
+          "id": "76bc5e4b-1785-4ece-b3e8-2daa2ab82c9e",
+          "type": "artist"
+        },
+        {
+          "id": "92d549d4-f448-4fcd-a2b4-ad402b734dd0",
+          "type": "cover_art"
+        },
+        {
+          "id": "b7b9e72e-8672-41b5-b741-9fe972fda2fa",
+          "type": "manga",
+          "related": "alternate_story",
+          "attributes": {
+            "title": {
+              "en": "November Gymnasium"
+            },
+            "altTitles": [
+              {
+                "ja": "11月のギムナジウム"
+              },
+              {
+                "ja-ro": "11-gatsu no Gymnasium"
+              },
+              {
+                "en": "Poor Mama"
+              },
+              {
+                "ru": "Ноябрьская гимназия"
+              },
+              {
+                "ja": "かわいそうなママ"
+              },
+              {
+                "fr": "Le Pensionnat de Novembre"
+              }
+            ],
+            "description": {
+              "en": "A compilation of early one-shots by Moto Hagio. Includes the famous \"November Gymnasium\" as the leading one-shot.\n\nContains:\n\n- **November Gymnasium** (11月のギムナジウム, 11-gatsu no Gymnasium) - Serialized in Bessatsu ShoComi in the November 1971 Issue\nDescription:\nWhen a tough, rebellious Eric arrives at a German boarding school, there is one fellow student he hates: Thoma. Thoma bears a striking resemblance to Eric, but is gentle, delicate, and idolized by his classmates. \n\n- **Snow Child** (雪の子) - Serialized in Bessatsu ShoComi's March 1971 Issue\n\n- **The Home Where the Tower Is** (塔のある家); ShoComi 1971 Issue #12\n\n- **The Girl Who became a White Bird** (白い鳥になった少女) - Serialized in Bessatsu ShoComi's December 1971 Issue\n\n- **The Flute of the White Boy in the White Forest** (白き森白き少年の笛) - Serialized in ShoComi 1971 Issue #45 - \n**Note: Included in the French Moto Hagio Anthologie De la rêverie under the name ''Le petit flûtiste de la forêt blanche''**\n\n- **Bianca** (ビアンカ); Serialized in Weekly Shojo Friend Zoukan's July 7th, 1970 Special Issue.\n**Note: One-shot included in the English only compilation A Drunken Dream and Other Stories**\n\n- **Sayo's Self Made Yukata** (小夜の縫うゆかた) - Serialized in Bessatsu ShoComi's October 1971 Issue\n\n- **Autumn Journey** (秋の旅) - Serialized in Bessatsu ShoComi's May 1971 Issue\n**Note: One-shot included in the English only compilation A Drunken Dream and Other Stories**\n\n- **Poor Mama** (かわいそうなママ, Kawaisou na Mama) - Serialized in Bessatsu ShoComi's May 1971 Issue\nDescription:\n A man returns from a trip after hearing news about his former love's passing."
+            },
+            "isLocked": false,
+            "links": {
+              "al": "39231",
+              "ap": "11-gatsu-no-gymnasium",
+              "bw": "de8d16a165-4c56-4079-9cfa-498dba5596ff",
+              "kt": "18692",
+              "mu": "47490",
+              "amz": "https://www.amazon.co.jp/11月のギムナジウム-小学館文庫-萩尾望都-ebook/dp/B00MORJOEK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1670811509&sr=8-1",
+              "cdj": "https://www.cdjapan.co.jp/product/NEOBK-91880",
+              "ebj": "https://ebookjapan.yahoo.co.jp/books/107573/",
+              "mal": "9231"
+            },
+            "originalLanguage": "ja",
+            "lastVolume": "1",
+            "lastChapter": "5",
+            "publicationDemographic": "shoujo",
+            "status": "completed",
+            "year": 1971,
+            "contentRating": "safe",
+            "tags": [
+              {
+                "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Oneshot"
+                  },
+                  "description": {},
+                  "group": "format",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "33771934-028e-4cb3-8744-691e866a923e",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Historical"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Psychological"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Romance"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Comedy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Anthology"
+                  },
+                  "description": {},
+                  "group": "format",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Boys' Love"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Philosophical"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Drama"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "School Life"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Fantasy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Slice of Life"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Music"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Tragedy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              }
+            ],
+            "state": "published",
+            "chapterNumbersResetOnNewVolume": false,
+            "createdAt": "2019-04-09T00:02:47+00:00",
+            "updatedAt": "2024-11-04T02:09:40+00:00",
+            "version": 13,
+            "availableTranslatedLanguages": [
+              "vi",
+              "en"
+            ],
+            "latestUploadedChapter": "59c85f28-507f-4456-b421-b0d6bfe6c8e5"
+          }
+        },
+        {
+          "id": "f3113c67-51ca-4985-88fe-6be4f9b805bb",
+          "type": "manga",
+          "related": "prequel",
+          "attributes": {
+            "title": {
+              "en": "The Visitor"
+            },
+            "altTitles": [
+              {
+                "ja-ro": "Houmonsha"
+              },
+              {
+                "en": "Visitor"
+              },
+              {
+                "en": "Visitor: At the Lakeside"
+              },
+              {
+                "ja": "訪問者"
+              },
+              {
+                "en": "Castle"
+              }
+            ],
+            "description": {
+              "en": "This manga contains four stories:\n- Houmonsha / The Visitor\nA prequel to Thomas' Heart narrating the earlier life of Oscar. Due to many large and small problems that have added up over the years, Oscar's parents' marriage is collapsing. One day, after a fight that Oscar believes is going to end like all of the others, his father does something irreversible. Now Oscar and his father will have to deal with the consequences.\n- Castle\nA boy wondered how to build his castle.\n- Egg Stand translated in French under the name ''Le coquetier'' in Moto Hagio Anthologie De l'humain\n- Angel Mimic"
+            },
+            "isLocked": false,
+            "links": {
+              "al": "39178",
+              "ap": "houmonsha",
+              "kt": "houmonsha",
+              "mu": "12199",
+              "mal": "9178"
+            },
+            "originalLanguage": "ja",
+            "lastVolume": "1",
+            "lastChapter": "5",
+            "publicationDemographic": "shoujo",
+            "status": "completed",
+            "year": 1980,
+            "contentRating": "safe",
+            "tags": [
+              {
+                "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Oneshot"
+                  },
+                  "description": {},
+                  "group": "format",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Psychological"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Drama"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Police"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Slice of Life"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Tragedy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              }
+            ],
+            "state": "published",
+            "chapterNumbersResetOnNewVolume": false,
+            "createdAt": "2020-07-19T03:11:46+00:00",
+            "updatedAt": "2024-02-12T18:20:52+00:00",
+            "version": 6,
+            "availableTranslatedLanguages": [
+              "en",
+              "vi"
+            ],
+            "latestUploadedChapter": "07bcc7ae-18e6-46cc-86ab-943c3dc16586"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cb3fcf45-e83c-4dbf-aa04-c4d48d14beae",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "81diver"
+        },
+        "altTitles": [
+          {
+            "en": "81 Diver"
+          },
+          {
+            "ja-ro": "Hachi Wan Daiba"
+          },
+          {
+            "ja-ro": "Hachi Wan Diver"
+          },
+          {
+            "ja-ro": "Hachiwan Diver"
+          },
+          {
+            "ru": "Ныряльщик 81"
+          },
+          {
+            "ja": "ハチワンダイバー"
+          },
+          {
+            "ko": "벌 원 다이버"
+          }
+        ],
+        "description": {
+          "en": "Kentarou's former shogi teacher taught him to (metaphorically) dive into the 81 squares of the shogi board. Thus, his nickname is \"81 Diver\". He has failed to enter the professional league of shogi competition. However, he continues to play the game for a living by gambling at amateur shogi clubs."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "38582",
+          "ap": "81-diver",
+          "bw": "series/12469/list",
+          "kt": "17403",
+          "mu": "10516",
+          "amz": "https://www.amazon.co.jp/gp/product/B074CFQ7JY",
+          "cdj": "https://www.cdjapan.co.jp/product/NEOBK-37390",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/132458/",
+          "mal": "8582",
+          "raw": "https://ynjn.jp/title/8"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "35",
+        "lastChapter": "375",
+        "publicationDemographic": "seinen",
+        "status": "completed",
+        "year": 2006,
+        "contentRating": "suggestive",
+        "tags": [
+          {
+            "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Traditional Games"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Sports"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2018-04-16T20:53:39+00:00",
+        "updatedAt": "2024-10-18T13:42:32+00:00",
+        "version": 5,
+        "availableTranslatedLanguages": [
+          "vi",
+          "en"
+        ],
+        "latestUploadedChapter": "c1a4ba3b-3838-42df-acd0-774d9910f86b"
+      },
+      "relationships": [
+        {
+          "id": "91c0e9ad-e51d-435a-9621-d7e904ff7e0d",
+          "type": "author"
+        },
+        {
+          "id": "91c0e9ad-e51d-435a-9621-d7e904ff7e0d",
+          "type": "artist"
+        },
+        {
+          "id": "e49cb17f-6f88-4f2e-a904-14eee278de2b",
+          "type": "cover_art"
+        },
+        {
+          "id": "dce96af2-786d-4b73-a258-78a04b5cfa75",
+          "type": "manga",
+          "related": "spin_off",
+          "attributes": {
+            "title": {
+              "en": "Zanguard"
+            },
+            "altTitles": [
+              {
+                "en": "Zan Guard, ザンガード"
+              }
+            ],
+            "description": {
+              "en": "A spinoff of the author's other work, 81diver, based on the adventures of Kirino Shito as his alter-ego Zanguard.  \n  \n\n\n---\n\n**Links:**  \n- [Author's Twitter](https://twitter.com/toujima_rider)"
+            },
+            "isLocked": false,
+            "links": {
+              "al": "123355",
+              "mu": "67634",
+              "amz": "https://www.amazon.co.jp/dp/B00M8UIXUE",
+              "mal": "116877"
+            },
+            "originalLanguage": "ja",
+            "lastVolume": "1",
+            "lastChapter": "4",
+            "publicationDemographic": "seinen",
+            "status": "completed",
+            "year": 2007,
+            "contentRating": "suggestive",
+            "tags": [
+              {
+                "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Action"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Comedy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Sports"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Video Games"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Drama"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Slice of Life"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              }
+            ],
+            "state": "published",
+            "chapterNumbersResetOnNewVolume": false,
+            "createdAt": "2019-07-27T07:41:08+00:00",
+            "updatedAt": "2023-04-23T22:03:01+00:00",
+            "version": 3,
+            "availableTranslatedLanguages": [
+              "en"
+            ],
+            "latestUploadedChapter": "f83cdf58-b944-4e6c-92cb-f61a9556ae90"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4f39bf63-4f83-4c4f-9318-f3759cf7a534",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Off Village: Daisanbou Okabe"
+        },
+        "altTitles": [
+          {
+            "ja": "オフヴィレッジ 第三防御壁"
+          }
+        ],
+        "description": {
+          "en": "In that village, those who die rise again, transforming into what the locals call \"Wandering Dead\" that are neither fully alive nor completely dead. These wandering dead then feast on the living...\n\nIn the remote settlement of Sarugami Village, completely isolated from the outside world by three imposing walls and absent from all maps, an eerie phenomenon unfolds. The villagers know nothing of the outside world, they can only resist the suffocating scent of death that permeates their lives... It's a bizarre horror where conspiracy and madness intertwine."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "105237",
+          "bw": "series/171824/list",
+          "mu": "suy9dc4",
+          "mal": "175830",
+          "raw": "https://comic.pixiv.net/store/products/546178"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "2",
+        "lastChapter": "14",
+        "publicationDemographic": "seinen",
+        "status": "completed",
+        "year": 2017,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Survival"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "631ef465-9aba-4afb-b0fc-ea10efe274a8",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Zombies"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Gore"
+              },
+              "description": {},
+              "group": "content",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Horror"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Mystery"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2024-11-01T02:14:56+00:00",
+        "updatedAt": "2024-11-06T01:06:56+00:00",
+        "version": 8,
+        "availableTranslatedLanguages": [
+          "en"
+        ],
+        "latestUploadedChapter": "e181dd36-ff2f-4aae-8c04-0425a4246833"
+      },
+      "relationships": [
+        {
+          "id": "29d57565-5769-45bf-912b-035a50777ea0",
+          "type": "author"
+        },
+        {
+          "id": "29d57565-5769-45bf-912b-035a50777ea0",
+          "type": "artist"
+        },
+        {
+          "id": "cabd6924-f1a0-4eb5-a019-a546605671e4",
+          "type": "cover_art"
+        },
+        {
+          "id": "8dbf7727-79bc-47ea-81a1-fc899749cb6e",
+          "type": "creator"
+        }
+      ]
+    },
+    {
+      "id": "e4dce395-e3fd-429d-b138-d017fff8797e",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Again!!"
+        },
+        "altTitles": [
+          {
+            "th": "Again ย้อนเวลากลับมาป่วน"
+          },
+          {
+            "zh": "Again！！重来一次"
+          },
+          {
+            "tl": "Muli!!"
+          },
+          {
+            "tr": "Yeniden!!"
+          },
+          {
+            "ru": "Ещё разок!"
+          },
+          {
+            "ja": "アゲイン！！"
+          },
+          {
+            "ko": "어게인!!"
+          }
+        ],
+        "description": {
+          "en": "After three unfulfilling years of high school, Imamura Kinichirou was finally graduating. Because of his delinquent-esque looks, he was feared by his classmates, has made no friends, and his greatest regret was not joining the ouendan (cheer club), which was now disbanded. After an accident on the day of his graduation, he and classmate Fujieda Aki are transported three years back in time, freshman again in body but with high-school memories intact. Can Imamura fix the mistakes of his past? Can he re-do his high school years in the way that he's always wanted? Again!! The universe suddenly shouts."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "65013",
+          "ap": "again",
+          "bw": "series/4272",
+          "kt": "11818",
+          "mu": "64690",
+          "amz": "https://www.amazon.co.jp/dp/B074CB3KBB",
+          "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1005817",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/132156",
+          "mal": "35013",
+          "raw": "https://pocket.shonenmagazine.com/episode/13932016480029113152",
+          "engtl": "https://comics.inkr.com/title/770-again?utm_source=mgd"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "12",
+        "lastChapter": "136",
+        "publicationDemographic": "shounen",
+        "status": "completed",
+        "year": 2011,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Time Travel"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "School Life"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Supernatural"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2018-04-05T06:16:39+00:00",
+        "updatedAt": "2024-05-08T20:33:20+00:00",
+        "version": 8,
+        "availableTranslatedLanguages": [
+          "pt-br",
+          "es-la",
+          "ru",
+          "en",
+          "fr",
+          "tr"
+        ],
+        "latestUploadedChapter": "48a6ac74-a045-4adb-8641-be68f0ac58b0"
+      },
+      "relationships": [
+        {
+          "id": "5285d18a-8cee-4845-8d6d-5905b1c7869b",
+          "type": "author"
+        },
+        {
+          "id": "5285d18a-8cee-4845-8d6d-5905b1c7869b",
+          "type": "artist"
+        },
+        {
+          "id": "ee7fa73f-07c8-4893-b37b-efc18be2da54",
+          "type": "cover_art"
+        }
+      ]
+    },
+    {
+      "id": "88bf7a59-a620-4858-af76-39e712f9a536",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Ichiya de Ochiru Koi Nante"
+        },
+        "altTitles": [
+          {
+            "ja": "一夜で堕ちる恋なんて"
+          },
+          {
+            "ja-ro": "Ichiya de ochiru koi nante"
+          },
+          {
+            "en": "Falling In Love in One Night"
+          },
+          {
+            "en": "A One-Night Stand Love"
+          }
+        ],
+        "description": {
+          "en": "Today might be a lucky day. \nEma, who works at a lesbian bar, has fallen in love with a beautiful customer (Kazusa). \nEma keeps being insistent and eventually, they end up having a one-night stand. \nThe next morning, after spending a very satisfying night, Ema wakes up and is shocked to see Kazusa's shocking different appearance! \n\nThis is a bottomless romantic comedy filled with love that encompasses the gap between the characters' public and private faces!",
+          "ja": "今日はアタリかもしれない。\nレズビアンバーで働く依末は、美人の客（和沙）に恋をした。\nこのまま押せばいけそうと画策する依末に、彼女も乗り気でそのままワンナイトへ――\n大満足の一夜を過ごしたその翌朝、まどろみの中で目に入ったのは和沙の衝撃的な姿だった！？\n表の顔と裏の顔、そんなギャップも愛で満ちる、底なし沼ラブコメディ！"
+        },
+        "isLocked": false,
+        "links": {
+          "al": "183444",
+          "kt": "ichiya-de-ochiru-koi-nante",
+          "mal": "175576",
+          "raw": "https://comic-walker.com/detail/KC_005998_S?episodeType=first"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": null,
+        "status": "completed",
+        "year": 2024,
+        "contentRating": "suggestive",
+        "tags": [
+          {
+            "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Oneshot"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Girls' Love"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2024-10-23T11:43:21+00:00",
+        "updatedAt": "2024-10-31T12:52:14+00:00",
+        "version": 6,
+        "availableTranslatedLanguages": [
+          "en",
+          "ru"
+        ],
+        "latestUploadedChapter": "70e26516-c3d8-435b-96b5-1e890d6fa08b"
+      },
+      "relationships": [
+        {
+          "id": "f7b20810-caa0-457a-bf13-29c65c9af831",
+          "type": "author"
+        },
+        {
+          "id": "f7b20810-caa0-457a-bf13-29c65c9af831",
+          "type": "artist"
+        },
+        {
+          "id": "a3ed5b4b-47a9-4edc-bd58-590a01124fa7",
+          "type": "cover_art"
+        },
+        {
+          "id": "43239858-7056-4c4a-910e-094ccb283212",
+          "type": "creator"
+        }
+      ]
+    },
+    {
+      "id": "32dfa44f-1077-4ed2-bedc-b7707788fb1b",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Chiruran: Shinsengumi Requiem"
+        },
+        "altTitles": [
+          {
+            "tr": "Chiruran: Shinsengumi Ağıtı"
+          },
+          {
+            "en": "Requiem of the Shinsengumi"
+          },
+          {
+            "en": "Requiem for Shinsen"
+          },
+          {
+            "ja": "ちるらん 新撰組鎮魂歌【レクイエム】"
+          },
+          {
+            "zh-hk": "新撰组镇魂歌"
+          }
+        ],
+        "description": {
+          "en": "In 1912, a young woman tracks down the elderly Nagakura Shinpachi, determined to hear the true story of the Demon of the Shinsengumi, the Vice Commander Hijikata Toshizou. Hijikata's story begins in 1859, when he is a violent young man that is honing his sword skills while peddling his family's medicine. Soon, in his quest to find stronger people to fight, Hijikata starts to come into contact with others who will eventually become his comrades in the Shinsengumi. The first one to make an impression on the brash young man is Kondo Isami, who proves to be a better fighter than Hijikata.",
+          "pt-br": "Em 1912, uma jovem mulher rastreia o idoso Nagakura Shinpachi, determinada a ouvir a verdadeira história do Demônio do Shinsengumi, o Vice-Comandante Hijikata Toshizou. A história de Hijikata começa em 1859, quando ele é um jovem violento que está aprimorando suas habilidades com a espada enquanto vende os remédios de sua família. Logo, em sua busca para encontrar pessoas mais fortes para lutar, Hijikata começa a entrar em contato com outros que eventualmente se tornarão seus companheiros no Shinsengumi. O primeiro a causar uma impressão no jovem impetuoso é Kondo Isami, que prova ser um lutador melhor do que Hijikata."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "82005",
+          "ap": "chiruran-shinsengumi-requiem",
+          "bw": "series/46392/list",
+          "kt": "10521",
+          "mu": "59063",
+          "amz": "https://www.amazon.co.jp/gp/product/B075V6JZ5R",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/24362/",
+          "mal": "52005",
+          "engtl": "https://shinsengumi.net/index.php/2021/11/18/mangamo-chiruran-shinsengumi-requiem-and-byakkotai/"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "36",
+        "lastChapter": "150",
+        "publicationDemographic": "seinen",
+        "status": "completed",
+        "year": 2010,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Thriller"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "33771934-028e-4cb3-8744-691e866a923e",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Historical"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Survival"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "81183756-1453-4c81-aa9e-f6e1b63be016",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Samurai"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2019-02-02T09:58:07+00:00",
+        "updatedAt": "2024-11-12T17:05:51+00:00",
+        "version": 16,
+        "availableTranslatedLanguages": [
+          "es-la",
+          "pt-br",
+          "zh-hk",
+          "id",
+          "en"
+        ],
+        "latestUploadedChapter": "80bc4475-17d7-4251-9fd7-7f73ea680e1e"
+      },
+      "relationships": [
+        {
+          "id": "31a1554b-2134-463e-8d69-2f86318c6915",
+          "type": "author"
+        },
+        {
+          "id": "3f336248-ea63-495f-ad25-6e248f477cc9",
+          "type": "artist"
+        },
+        {
+          "id": "fb05b35b-e917-4da0-a7e3-d2c78421aba2",
+          "type": "cover_art"
+        },
+        {
+          "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
+          "type": "manga",
+          "related": "shared_universe",
+          "attributes": {
+            "title": {
+              "en": "Shuumatsu no Valkyrie"
+            },
+            "altTitles": [
+              {
+                "ja-ro": "Shuumatsu no Walküre"
+              },
+              {
+                "en": "Record of Ragnarok"
+              },
+              {
+                "ru": "Повесть о Конце Света"
+              },
+              {
+                "fa": "تاریخچه رگنوراک"
+              },
+              {
+                "ja": "終末のワルキューレ"
+              },
+              {
+                "en": "Valkyrie of the End"
+              },
+              {
+                "zh-hk": "終末的女武神"
+              },
+              {
+                "fr": "Valkyrie Apocalypse"
+              },
+              {
+                "es-la": "Los Registros del Ragnarok"
+              },
+              {
+                "ar": "سجلات راغناروك"
+              },
+              {
+                "uk": "Повість про кінець світу"
+              },
+              {
+                "bg": "Рагнарок"
+              },
+              {
+                "tr": "Ragnarok Kaydı"
+              },
+              {
+                "id": "Rekam Jejak Ragnarok"
+              },
+              {
+                "id": "Valkri Jawir Asli Jaksel"
+              },
+              {
+                "en": "Valkyrie Apocalypse"
+              },
+              {
+                "en": "World's End Valkyrie"
+              }
+            ],
+            "description": {
+              "en": "The story begins when the gods call a convention to decide whether to let humanity live or die, and settle on destroying humanity. But a lone Valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity's continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies.\n\n---\n  - Alternative English Translation: [<comikey>](https://comikey.com/comics/record-of-ragnarok-manga/61/)",
+              "fa": "⁧⁧ داستان جایی شروع میشه که خدایان بحث این رو به میان میاورند که انسان‌ها زنده بمانند یا نابود شوند. ولی یک والکری به تنهایی بحث را به سمتی میکشاند که به انسان‌ها اجازه یک مبارزه در مقابل خدایان داده شود. و به این شکل کور سوی امید بشریت روشن باقی میماند. سیزده خدا، سیزده انسان، در مقابل هم قرار میگیرند تا سرنوشت بشریت را مشخص کنند",
+              "fr": "Tous les mille ans, l'ensemble des dieux, tous panthéons réunis, se réunissent au Valhalla, le paradis des âmes, lors d'une assemblée présidée par Zeus, le dieu suprême grec, afin de décider du sort des humains. Or, cette année-là, il est décidé à la quasi-unanimité de détruire l'humanité. Mais la Valkyrie Brunehilde interrompt la conférence et propose aux dieux de se mesurer aux mortels lors du tournoi de Ragnarök, pour déterminer s'ils valent vraiment la peine d'êtres anéantis. Ce tournoi opposera 13 dieux issus de diverses mythologies à 13 puissants humains qui ont fait l'histoire. Si l'humanité remporte au moins sept des 13 duels, alors les dieux épargneront l'humanité.",
+              "id": "- In Indonesian by [Akasha](http://www.mncgramedia.id/comics/comic_detail/akasha-record-of-ragnarok-01) as \"Record of Ragnarok\"",
+              "it": "- In Italian by [Star Comics](https://www.starcomics.com/titoli-fumetti/record-of-ragnarok) as \"Record of Ragnarok\"",
+              "ru": "История начинается c собрания богов, на котором они решают судьбу человечества: убить всех или оставить в живых, согласившись в никчёмности рода людского, боги выбирают первое... Но одна валькирия выдвигает предложение: позволить богам и человечеству сразиться в битве, в качестве последнего луча надежды людей. 13 богов сразятся против 13 чемпионов людей в битвах один на один, чтобы решить, будет ли человечество жить или сгинет в могуществе божественной силы.",
+              "tr": "Hikâye, tanrıların insanlığın yaşamasına ya da ölmesine karar vermek için bir toplantı düzenlemesi ve insanlığı yok etmeye karar vermesiyle başlar. Ancak yalnız bir Valkyrie, insanlığın hayatta kalması için son bir umut olarak tanrıların ve insanlığın son bir savaşa girmesine izin verilmesi önerisini ortaya atar. 13 tanrı, insanlığın yaşayıp yaşamayacağına karar vermek için teke tek savaşlarda 13 insan şampiyona karşı dövüşecektir.",
+              "uk": "Історія починається зі зборів богів, на яких вирішується доля людства: життя чи смерть. Погодившись з нікчемністю людського роду, боги вибирають друге... Але одна валькірія висуває пропозицію: дозволити богам і людям битися в битві, яка стане останнім променем надії для людства. 13 богів б'ються проти 13 людських чемпіонів у битвах віч-на-віч, щоб вирішити, чи буде людство жити чи згине у могутності божественної сили.",
+              "es-la": "Los Dioses se reúnen con el objetivo de decidir si la humanidad debe vivir o morir. Y aunque llegan a la conclusión de que debe perecer, una Valkyria propone que una lucha de dioses contra humanos para tomar tan difícil decisión. Así, 13 humanos pelearán contra 13 Dioses para resolver el destino de la humanidad.",
+              "pt-br": "A cada 1.000 anos, as divindades se reúnem sob o conselho de Valhalla para decidir sobre o direito da humanidade de continuar vivendo, ou por sua destruição, porém desta vez os deuses estão furiosos com o descaso humano para com o planeta, pendendo passim para aniquilar toda a raça humana, porém uma única valquíria os convencem de realizar o Ragnarok, uma batalha mortal entre humanos e deuses para decidir sob sua sobrevivência, 13 humanos enfrentarão 13 deuses. Serão este humanos capazes de colidir com as poderosas divindades?"
+            },
+            "isLocked": false,
+            "links": {
+              "al": "107098",
+              "ap": "shuumatsu-no-walkure",
+              "bw": "series/161750/list",
+              "kt": "51379",
+              "mu": "145772",
+              "amz": "https://www.amazon.co.jp/gp/product/B07J6C11HJ",
+              "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2644556",
+              "ebj": "https://ebookjapan.yahoo.co.jp/books/456455/",
+              "mal": "110485",
+              "raw": "https://comic-zenon.com/episode/10834108156693612699",
+              "engtl": "https://www.viz.com/record-of-ragnarok"
+            },
+            "originalLanguage": "ja",
+            "lastVolume": "",
+            "lastChapter": "",
+            "publicationDemographic": "seinen",
+            "status": "ongoing",
+            "year": 2017,
+            "contentRating": "safe",
+            "tags": [
+              {
+                "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Thriller"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "33771934-028e-4cb3-8744-691e866a923e",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Historical"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Action"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Psychological"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Comedy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Survival"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Martial Arts"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "81183756-1453-4c81-aa9e-f6e1b63be016",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Samurai"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Adventure"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "9467335a-1b83-4497-9231-765337a00b96",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Post-Apocalyptic"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Magic"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Military"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Gore"
+                  },
+                  "description": {},
+                  "group": "content",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Drama"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Fantasy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Supernatural"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Mystery"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Tragedy"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              }
+            ],
+            "state": "published",
+            "chapterNumbersResetOnNewVolume": false,
+            "createdAt": "2019-10-04T20:44:47+00:00",
+            "updatedAt": "2024-11-27T05:52:51+00:00",
+            "version": 74,
+            "availableTranslatedLanguages": [
+              "zh-hk",
+              "en",
+              "fr",
+              "tr",
+              "es-la",
+              "ru",
+              "pt-br",
+              "vi",
+              "uk",
+              "bg",
+              "id",
+              "it",
+              "fa",
+              "ar",
+              "es",
+              "pl"
+            ],
+            "latestUploadedChapter": "6ac2a68b-c5f9-434e-bfd8-3c26f3d6706e"
+          }
+        },
+        {
+          "id": "ce65bc7b-e8de-4f1e-b581-f7ee356ea88c",
+          "type": "manga",
+          "related": "side_story",
+          "attributes": {
+            "title": {
+              "en": "Tenshou no Ryoma"
+            },
+            "altTitles": [
+              {
+                "ja-ro": "Tenshou no Ryuma"
+              },
+              {
+                "ja-ro": "Tenshou no Ryuuma"
+              },
+              {
+                "ja": "天翔の龍馬"
+              }
+            ],
+            "description": {
+              "en": "At the end of the age of shogunates, a great man is given a second chance to restore a crumbling, feudal Japan.  \n  \nToward the end of the Edo Period, samurai and visionary Sakamoto Ryouma led a revolutionary movement to overthrow the Takagawa Shogunate. Inspired by the Western principle of \"all men created equal\", he envisioned a modern Japanese government, free of oppressive feudalism. In 1867, he and his close friend Nakaoka Shintaro were assasinated before his dreams could be realized.  \n  \nTenshou no Ryouma explores the historical alternative-universe where Ryouma is saved through Shintaro's sacrifice. Given this second chance, will Ryouma finally be able to establish a new, modern Japan?"
+            },
+            "isLocked": false,
+            "links": {
+              "al": "47874",
+              "ap": "tenshou-no-ryoma",
+              "bw": "series/104191",
+              "kt": "5485",
+              "mu": "47815",
+              "amz": "https://www.amazon.co.jp/gp/product/B074CGC1NB",
+              "ebj": "https://ebookjapan.yahoo.co.jp/books/302488/",
+              "mal": "17874"
+            },
+            "originalLanguage": "ja",
+            "lastVolume": "5",
+            "lastChapter": "35",
+            "publicationDemographic": "seinen",
+            "status": "completed",
+            "year": 2009,
+            "contentRating": "safe",
+            "tags": [
+              {
+                "id": "33771934-028e-4cb3-8744-691e866a923e",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Historical"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Action"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "81183756-1453-4c81-aa9e-f6e1b63be016",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Samurai"
+                  },
+                  "description": {},
+                  "group": "theme",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Adventure"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              },
+              {
+                "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                "type": "tag",
+                "attributes": {
+                  "name": {
+                    "en": "Drama"
+                  },
+                  "description": {},
+                  "group": "genre",
+                  "version": 1
+                },
+                "relationships": []
+              }
+            ],
+            "state": "published",
+            "chapterNumbersResetOnNewVolume": false,
+            "createdAt": "2018-03-09T10:30:16+00:00",
+            "updatedAt": "2023-12-26T20:16:06+00:00",
+            "version": 3,
+            "availableTranslatedLanguages": [
+              "en",
+              "es-la"
+            ],
+            "latestUploadedChapter": "fd926422-4af8-4a78-a333-4bc67afeb8ae"
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 10,
+  "offset": 0,
+  "total": 10
+}

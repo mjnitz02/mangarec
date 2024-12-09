@@ -1,3 +1,4 @@
+import json
 import os
 import shutil
 
@@ -45,3 +46,10 @@ def scan_path(integration_path):
 @pytest.fixture
 def storage_path(integration_path):
     return os.path.join(integration_path, "storage")
+
+
+@pytest.fixture
+def manga_server_response(tests_fixtures_path):
+    with open(os.path.join(tests_fixtures_path, "response_1733763131255.json"), encoding="utf-8") as file:
+        data = json.load(file)
+    return data

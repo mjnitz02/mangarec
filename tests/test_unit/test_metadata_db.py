@@ -1,42 +1,36 @@
-from unittest import mock
+from unittest.mock import patch
 
-from mangarec.database.base_db import BaseEntityDB
 from mangarec.database.metadata_entity import MetadataEntity
 from mangarec.database.metadata_entity_db import MetadataEntityDB
 
 
 def test_base_entity_db():
-    entity_db = BaseEntityDB()
+    entity_db = MetadataEntityDB()
     assert entity_db.query_param_field == "ids[]"
     assert entity_db.version == 2
     assert entity_db.database == {}
 
 
-def test_metadata_entity_db(manga_request_content, manga_request_id):
-    with mock.patch.object(MetadataEntity, "from_server_url") as mock_from_server_url:
-        mock_from_server_url.return_value = [MetadataEntity(content=manga_request_content)]
-        entity_db = MetadataEntityDB()
-        entity_db.update(manga_request_id)
-        mock_from_server_url.assert_called_once_with(query_params={"ids[]": [manga_request_id]})
-
-        assert len(entity_db) == 1
-        assert entity_db[manga_request_id].content == manga_request_content
-
-        # Assert that a second call does not re-add
-        entity_db.update(manga_request_id, skip_on_exist=True)
-        mock_from_server_url.assert_called_once()
-        assert len(entity_db) == 1
+@patch("mangarec.database.base_entity.sleep")
+def test_metadata_entity_db_update(mock_sleep, manga_server_response, requests_mock):
+    _ = mock_sleep
+    requests_mock.get(MetadataEntity.entity_url, json=manga_server_response)
+    entity_db = MetadataEntityDB()
+    entity_db.update()
+    assert len(entity_db) == 10
 
 
-def test_metadata_entity_db_can_store_and_load(manga_request_content, manga_request_id):
-    with mock.patch.object(MetadataEntity, "from_server_url") as mock_from_server_url:
-        mock_from_server_url.return_value = [MetadataEntity(content=manga_request_content)]
-        entity_db = MetadataEntityDB()
-        entity_db.update(manga_request_id)
+@patch("mangarec.database.base_entity.sleep")
+def test_metadata_entity_db_can_store_and_load(mock_sleep, manga_server_response, requests_mock):
+    _ = mock_sleep
+    requests_mock.get(MetadataEntity.entity_url, json=manga_server_response)
+    entity_db = MetadataEntityDB()
+    entity_db.update()
 
-        json_str = entity_db.to_json()
-        new_entity_db = MetadataEntityDB.from_json(json_str)
-        assert entity_db[manga_request_id].content == new_entity_db[manga_request_id].content
+    json_str = entity_db.to_json()
 
-        new_json_str = new_entity_db.to_json()
-        assert json_str == new_json_str
+    new_entity_db = MetadataEntityDB.from_json(json_str)
+    assert len(entity_db) == len(new_entity_db)
+
+    new_json_str = new_entity_db.to_json()
+    assert json_str == new_json_str
