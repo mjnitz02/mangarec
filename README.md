@@ -1,0 +1,2 @@
+# mangarec
+Manga recommendation tool
